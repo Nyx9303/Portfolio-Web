@@ -4,14 +4,78 @@ A modern, responsive portfolio website showcasing my journey as an AI Engineer a
 
 ## 🚀 About Me
 
-I'm Suryadev Chippada, an AI Engineer at FLARE Darmstadt working on innovative wildfire detection systems using UAVs and computer vision. Currently pursuing Computer Science studies at TU Darmstadt with a focus on AI/ML, computer vision, and edge computing.
+I'm Suryadev Chippada currently pursuing Computer Science studies at TU Darmstadt with a focus on AI/ML, computer vision, and edge computing. AI Engineer at FLARE Darmstadt working on innovative wildfire detection systems using UAVs and computer vision. 
 
 **Current Role:** Artificial Intelligence Engineer @ FLARE Darmstadt  
 **Location:** Darmstadt, Hesse, Germany  
 **Specialization:** Computer Vision, Machine Learning, Edge Computing
 
 ## 🌟 Portfolio Features
+# Suryadev Chippada — Portfolio Website
 
+A simple, modern portfolio showcasing my journey as an AI Engineer and CS student at TU Darmstadt. Built with clean HTML, CSS, and JavaScript featuring a dark neumorphic design.
+
+## About Me
+
+AI Engineer @ FLARE Darmstadt focused on wildfire detection with UAVs and computer vision.  
+Studying Computer Science at TU Darmstadt, specializing in AI/ML, computer vision, and edge computing.  
+Location: Darmstadt, Germany
+
+## Website Overview
+
+- Multi-page layout: Home, About, Experience, Education, Projects, Skills, Contact  
+- Neumorphic dark theme with cyan accents  
+- Responsive design for all devices  
+- JetBrains Mono font for code aesthetics  
+- Smooth animations and intuitive icon-based navigation  
+- Built with pure HTML5, CSS3, and vanilla JavaScript (no frameworks)  
+
+## Tech Stack
+
+- HTML5, CSS3, JavaScript  
+- Font Awesome Icons  
+- Google Fonts (JetBrains Mono)  
+- CSS Grid & Flexbox  
+
+## Project Structure
+
+portfolio/
+├── index.html
+├── about.html
+├── experience.html
+├── education.html
+├── projects.html
+├── skills.html
+├── contact.html
+├── styles.css
+├── script.js
+└── README.md
+
+markdown
+Copy
+Edit
+
+## Featured Projects
+
+- **FLARE @ TU Darmstadt** — AI Engineer, wildfire detection using UAVs, YOLO, OpenCV, Python  
+- **Snake Game in Terminal** — Python, curses library, real-time scoring  
+- **This Portfolio** — Responsive, neumorphic UI, smooth UX  
+
+## Get Started
+
+Open `index.html` in any modern browser to view locally.  
+Deploy easily on GitHub Pages, Netlify, Vercel, or any static host.
+
+## Connect
+
+- GitHub: [Nyx9303](https://github.com/Nyx9303)  
+- LinkedIn: [suryadev-chippada](https://www.linkedin.com/in/suryadev-chippada)  
+- Email: chippadasurya8@gmail.com  
+
+---
+
+*Suryadev Chippada*  
+AI Engineer | CS Student | Tech Enthusiast
 ### Multi-Page Architecture
 - **Home** (`index.html`) - Landing page with hero section and quick overview
 - **About** (`about.html`) - Personal background, languages, and motivations
